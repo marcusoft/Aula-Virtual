@@ -1,14 +1,14 @@
 {
-"name": "mootes14",
+"name": "AulaVirtualFAyd",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
+    "fullname": "Marcos Ferro",
     "contribution": "Main developer",
-    "company": "CV&A Consulting"
+    "company": "FAyD"
 },
 {
     "fullname": "Josep Maria Gifreu",
